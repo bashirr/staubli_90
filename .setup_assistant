@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/bashir/catkin_ws/tx90.urdf
+  SRDF:
+    relative_path: config/staubli_tx90.srdf
+  CONFIG:
+    generated_timestamp: 1477965278
